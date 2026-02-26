@@ -1,6 +1,7 @@
 @import "tailwindcss";
 
 body {
-  background-image: url('/geodude-pattern.png');
+  /* updated to use the Pikachu pattern; put pikachu-pattern.png in public/ */
+  background-image: url('/pikachu-pattern.png');
   background-repeat: repeat;
 }
